@@ -6,7 +6,7 @@ La présentation en markdown
 Zakk Cholette
 
 ![Minecraft completa 15 anos: relembre o game](Image3.jpg)
-#2 Présentation du concept
+## Présentation du concept
 Application compagnon Minecraft
 
 Multijoueur/solo
