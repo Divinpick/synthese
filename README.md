@@ -1,4 +1,4 @@
-# Synth-se-Domaine-Multim-dia
+# Synthese
 La présentation en markdown
 
 # Mapcraft
